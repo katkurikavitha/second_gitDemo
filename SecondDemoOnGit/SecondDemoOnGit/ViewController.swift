@@ -10,7 +10,7 @@ import UIKit
 
 class ViewController: UIViewController {
 //first commit by kavitha
-    //second commit by rashida
+    //second commit by rashida again
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view, typically from a nib.
