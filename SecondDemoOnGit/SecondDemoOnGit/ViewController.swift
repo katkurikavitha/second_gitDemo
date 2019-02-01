@@ -13,7 +13,7 @@ class ViewController: UIViewController {
     //second commit by rashida again
 //first commit by kavitha again
     //second commit by rashida @@@@@@@@@*****2222
-   
+   var rashidaLabel = UILabel()
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view, typically from a nib.
